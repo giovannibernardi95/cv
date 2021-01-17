@@ -1,7 +1,22 @@
 body {
-    color:red;
+color: white;
+background-color:#333333;
+font-family: 'Montserrat', sans-serif;
 }
 
 h1 {
     size: 1rem;
+}
+
+hr{
+    height: 1%;
+    border:1px solid #ffd369;
+}
+/* Picture */
+
+.headerPicture {
+   border-radius: 50%;
+   border: 5px solid #ffd369;
+   height: 200px;
+   width: 200px;
 }
